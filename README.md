@@ -4,8 +4,8 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahablodhi&label=Profile%20views&color=0e75b6&style=flat" alt="sahablodhi" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahablodhi&label=Profile%20views&color=0e75b6&style=flat" alt="sahablodhi" /> </p>
+ -->
 <p align="left"> <a href="https://twitter.com/20_sahab_singh_" target="blank"><img src="https://img.shields.io/twitter/follow/20_sahab_singh_?logo=twitter&style=for-the-badge" alt="20_sahab_singh_" /></a> </p>
 
 
