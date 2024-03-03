@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/sahablodhi](https://www.github.com/sahablodhi)
 
-- 💬 Ask me about **react.js, Node.js, Javascript, Java**
+- 💬 Ask me about ** Javascript, Java, React.js, Node.js**
 
 - 📫 How to reach me **thakursahabsingh12@gmail.com**
 
